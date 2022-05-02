@@ -1,0 +1,7 @@
+C:\Users\antonio.fonseca\source\repos\RPGGame\RPG\obj\Debug\RPG.Api.csproj.AssemblyReference.cache
+C:\Users\antonio.fonseca\source\repos\RPGGame\RPG\obj\Debug\RPG.Language.RPGMsg.resources
+C:\Users\antonio.fonseca\source\repos\RPGGame\RPG\obj\Debug\RPG.Api.csproj.GenerateResource.cache
+C:\Users\antonio.fonseca\source\repos\RPGGame\RPG\obj\Debug\RPG.Api.csproj.CoreCompileInputs.cache
+C:\Users\antonio.fonseca\source\repos\RPG\obj\Debug\RPG.Language.RPGMsg.resources
+C:\Users\antonio.fonseca\source\repos\RPG\obj\Debug\RPG.Api.csproj.GenerateResource.cache
+C:\Users\antonio.fonseca\source\repos\RPG\obj\Debug\RPG.Api.csproj.CoreCompileInputs.cache
